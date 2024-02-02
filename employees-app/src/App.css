@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* App Styles */
+.app {
+  display: flex;
+  justify-content: space-between; /* Adjust the spacing between app-left and app-right */
+  border: 2px solid #ccc;
+  width: 500px; /* Set a fixed width */
+  height: 560px; /* Set a fixed height */
+  margin: auto;
+  padding: 20px; /* Add padding to the app box */
+}
+
